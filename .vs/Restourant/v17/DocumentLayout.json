@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|c:\\users\\golub\\onedrive\\documents\\c#\\restourant\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|solutionrelative:billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|c:\\users\\golub\\onedrive\\documents\\c#\\restourant\\drinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|solutionrelative:drinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\drinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|solutionrelative:drinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\foods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|solutionrelative:foods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|c:\\users\\golub\\onedrive\\documents\\c#\\restourant\\foods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|solutionrelative:foods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|solutionrelative:billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|c:\\users\\golub\\onedrive\\documents\\c#\\restourant\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|c:\\users\\golub\\onedrive\\documents\\c#\\restourant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|c:\\users\\golub\\onedrive\\documents\\c#\\restourant\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9A7EFA-A03B-406E-9C5E-A53314824ED6}|Restourant.csproj|solutionrelative:functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:51:40.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Billing.cs",
+              "RelativeDocumentMoniker": "Billing.cs",
+              "ToolTip": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Billing.cs",
+              "RelativeToolTip": "Billing.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAASwJYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:32:01.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Drinks.cs",
+              "DocumentMoniker": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Drinks.cs",
+              "RelativeDocumentMoniker": "Drinks.cs",
+              "ToolTip": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Drinks.cs",
+              "RelativeToolTip": "Drinks.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAhwJ8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:55:22.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Foods.cs",
+              "DocumentMoniker": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Foods.cs",
+              "RelativeDocumentMoniker": "Foods.cs",
+              "ToolTip": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Foods.cs",
+              "RelativeToolTip": "Foods.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIA3wDEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:43:44.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:10:43.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Functions.cs",
+              "RelativeDocumentMoniker": "Functions.cs",
+              "ToolTip": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Functions.cs",
+              "RelativeToolTip": "Functions.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAewB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:51:17.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Drinks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Drinks.cs",
+              "RelativeDocumentMoniker": "Drinks.cs",
+              "ToolTip": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Drinks.cs [Design]",
+              "RelativeToolTip": "Drinks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:02:35.546Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Billing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Billing.cs",
+              "RelativeDocumentMoniker": "Billing.cs",
+              "ToolTip": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Billing.cs [Design]",
+              "RelativeToolTip": "Billing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-11T18:12:35.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Foods.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Foods.cs",
+              "RelativeDocumentMoniker": "Foods.cs",
+              "ToolTip": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Foods.cs [Design]",
+              "RelativeToolTip": "Foods.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-07T09:39:10.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\Restourant\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-20T08:30:40.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
